@@ -1,1 +1,4 @@
 this is test filenumber one 
+Changed but not added again
+Change again but dont add
+HERE
