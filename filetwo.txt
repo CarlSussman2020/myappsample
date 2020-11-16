@@ -1,5 +1,8 @@
+MERGE CHANGES
 this is test filenumber two 
 Change but don't add
-HERE
-Changing from carlgit1 only now / should be behind master
+HERE I AM
+Changing from carlgit1 only now
+change in carlgit 2 only
+
 
